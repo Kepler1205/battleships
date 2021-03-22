@@ -242,7 +242,7 @@
 
     'Ship Playing Functions
 
-    'WIP
+    '''WIP'''
     Dim pointArr(8) As Point 'Length is the sum of all ship lengths
     Dim alreadyStored As Integer = 0
     Dim tempShip As Ship
